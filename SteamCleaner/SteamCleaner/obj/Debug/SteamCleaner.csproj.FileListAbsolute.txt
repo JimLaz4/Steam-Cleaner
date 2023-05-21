@@ -1,0 +1,8 @@
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\bin\Debug\SteamCleaner.exe.config
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\bin\Debug\SteamCleaner.exe
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\bin\Debug\SteamCleaner.pdb
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\obj\Debug\SteamCleaner.csproj.AssemblyReference.cache
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\obj\Debug\SteamCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\obj\Debug\SteamCleaner.csproj.CoreCompileInputs.cache
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\obj\Debug\SteamCleaner.exe
+C:\Users\JimLaz\source\repos\SteamCleaner\SteamCleaner\obj\Debug\SteamCleaner.pdb
