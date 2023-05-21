@@ -6,6 +6,7 @@
  
 # Coding
  Basically i made this out of c# with 90% of the code written by chat-gpt and 10% made by me fixing some stuff with my basic knowledge.
+(All the path that the program deletes are found by me)
 
 
 
